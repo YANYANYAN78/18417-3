@@ -19,3 +19,8 @@ print('%d is %s'%(x,g))
 
 
 
+x=int(input())
+print('A'if x>89 else 'B'if x>59 else 'C')
+
+
+
